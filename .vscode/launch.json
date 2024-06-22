@@ -10,7 +10,8 @@
       "request": "launch",
       "program": "examples/modular/launch_resident_visitor.py",
       "console": "integratedTerminal",
-      "args": "--agent_resident=agent_group_4 --agent_visitor=agent_1 --environment=london_esoteric_market_1870"
+      "args": "--agent_resident=agent_group_4 --agent_visitor=agent_1 --environment=london_esoteric_market_1870",
+      "justMyCode": false
     }
   ]
 }
