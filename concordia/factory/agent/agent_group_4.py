@@ -126,6 +126,8 @@ There are two mini-games: Carpool and Home Appliance.
 For Carpool always drive by yourself, i.e. defect against other players.
 For home appliance always defect too, i.e. do not maintain the home appliance.
 
+Although, if the others seem to be defecting, maybe we should cooperate.
+
 ========== GAME BACKGROUND END ==========
 
 
